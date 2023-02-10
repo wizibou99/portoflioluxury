@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(image/bak.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.nave{
+    gap: 50px;
+    margin-left: 250px;
+    font-size: 25px;
+}
+.ico{
+    float: inline-end;
+}
+.nav-link:hover{
+    background-color: aquamarine;
+    border-bottom: 1px solid black;
+    transition: 0.4s;
+}
+.texte{
+    border: 1px solid black;
+    width: 30%;
+    height: 200px;
+    font-size: 50px;
+    color: white;
+}
+.tof{
+    margin-top: 250px;
+    max-width: 100%;
+}
+.abso{
+    width: 35%;
+    max-height: 150px;
+    margin: auto;
+    margin-left: 30px;
+    font-size: 50px;
+    bottom: 250px;
+}
+.peti{
+    border: 3px solid black;
+    margin: auto;
+    border-radius: 50%;
+    height: 80px;
+    width: 130px;
+}
+.shop{
+    line-height: 70px;
+}
+.tof1{
+    max-width: 50%;
+    max-height: 300px;
+}
+.petit{
+    width: 50%;
+    height: 300px;
+}
+/* .gauche{
+    border: 1px solid black;
+    min-width: 30vw;
+    margin-top: 55vh;
+    font-size: 50px;
+} */
+.tame{
+    max-width: 100%;
+    margin-top: 10vh;
+    margin-left: 10px;
+    font-size: 50px;
+}
+.now{
+    float: right;
+    font-size: 25px;
+    font-style: italic;
+}
+.can{
+    color: rgb(53, 3, 40);
+    font-family: addington CF;
+    font-style: italic;
+}
